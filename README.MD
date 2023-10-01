@@ -1,1 +1,1 @@
-Proyecto utilizando Javascript
+Proyecto utilizando Javascript, teniendo contenido html dinamico
