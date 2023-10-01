@@ -33,12 +33,12 @@ header {
   background-position: center;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("imagenes/hero-inferior.svg");
+    url("imagenes/desarrolador.jpg");
 }
 
 .banner-container {
   text-align: center;
-  padding: 1% 0;
+  padding: 20% 0;
 }
 
 .banner h1 {
