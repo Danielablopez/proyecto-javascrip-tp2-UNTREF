@@ -45,6 +45,8 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
+
+
 function mostrarDetallesProductos(producto) {
   //redireccionar a otra pagina para mostrar los detalles
   window.location.href = `producto.html?id=${producto.id}`;
