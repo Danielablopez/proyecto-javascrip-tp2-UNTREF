@@ -3,7 +3,7 @@
 :root {
   --colorFuente: #fffadd;
   --colorFondoItems: #ffffff;
-  --colorTitulo: #1c1d1a;
+  --colorTitulo: #1e1e2a;
   --colorSubTitulo: #726767;
   --colorBackground: linear-gradient(#9fb9be, #96f8db9d);
   --colorBotonesHover: #0e3b88;
@@ -33,7 +33,7 @@ header {
   background-position: center;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("imagenes/desarrolador.jpg");
+    url("imagenes/desarrollador2.jpg");
 }
 
 .banner-container {
@@ -59,11 +59,12 @@ header {
 
 h1 {
   color: var(--colorTitulo);
-  font-size: 2rem;
+  font-size: 1,5rem;
   text-align: center;
   font-style: italic;
   padding-top: 15px;
-  text-shadow: 2px 2px #000;
+  
+  
 }
 
 h3 {
@@ -99,6 +100,7 @@ h3 {
   transition: 0.2s;
   
 }
+
 .detalles-producto {
   display: flex;
   flex-direction: column;
@@ -140,7 +142,7 @@ h4 {
 
 #descripcion {
   font-size: 2rem;
-  font-style: italic;
+  font-style: inherit;
   text-align: center;
 }
 
