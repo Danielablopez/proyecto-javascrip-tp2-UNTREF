@@ -1,0 +1,66 @@
+{
+    "cantidad": 3,
+    "inicio": 0,
+    "parametros": {},
+    "productos": [
+      {
+        "id": "01",
+        "nombre": "Proyecto 1",
+        "imagen": "imagenes/proyecto1.png",
+        "alt": "HTML, CSS, BOOTSTRAP",
+        "descripcion": "El proyecto se basa en una pagina para una escuela primaria, utilizando HTML Y CSS,se uso tambien Boostrap.El proyecto refleja los conocimientos adquiridos en el curso de programacion inicial de Argentina 4.0 dictado por la UNTREF.",
+        "valor": "$5.000.-",
+        "puntuacion": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "02",
+        "nombre": "Proyecto 2",
+        "imagen": "imagenes/proyecto2.png",
+        "alt": "Git y GitHub",
+        "descripcion": "El proyecto se basa en una practica para trabajar utilizando Git y GitHub, preparandonos para integrar equipos de trabajo.Este proyecto se realizo en el marco del curso de programacion inicial de Argentina Programa 4.0.",       
+        "valor": "$5.500.-",
+        "puntuacion": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "03",
+        "nombre": "Proyecto 3",
+        "imagen": "imagenes/proyecto3.png",
+        "alt": "Javascript",
+        "descripcion": "El proyecto se basa en una practica sobre JS para incorporar en las paquinas contenido dinámico, archivos json, LocalStorage. El proyecto se basa en un LandinPage",       
+        "valor": "$6.000.-",
+        "puntuacion": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "04",
+        "nombre": "Proyecto 4",
+        "imagen": "imagenes/proyecto4.png",
+        "alt": "Bootstrap",
+        "descripcion": "El proyecto se basa en una practica con Boostrap para aprender a usar sus funcionalidades e ir integrandolo en los diferentes proyectos.En este caso se realizo un portfolio.",
+        "valor": "$6.000.-",
+        "puntuacion": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "05",
+        "nombre": "Proyecto 5 ",
+        "imagen": "imagenes/proyecto5.png",
+        "alt": "CSS",
+        "descripcion": "El proyecto se basa en la utilizacion de CSS y aprender a dar estilo a las diferentes paginas utilizando grid entre otros.",
+        "valor": "$6.000.-",
+        "puntuacion": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "06",
+        "nombre": "Proyecto 6 ",
+        "imagen": "imagenes/proyecto6.png",
+        "alt": "CSS",
+        "descripcion": "El proyecto se basa en la utilizacion de CSS y aprender a dar estilo a las diferentes paginas utilizando grid entre otros.",
+        "valor": "$6.000.-",
+        "puntuacion": "⭐⭐⭐⭐⭐"
+      }
+      
+     
+     
+     
+    ],
+    "total": 6
+  }
